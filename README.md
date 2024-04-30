@@ -1,2 +1,3 @@
 # bloxicorepo
-Demo repository 
+
+Demo repository for the demo purposes
